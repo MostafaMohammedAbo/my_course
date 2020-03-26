@@ -1,1 +1,2 @@
 this is afile
+my second command
